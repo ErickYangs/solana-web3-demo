@@ -25,6 +25,7 @@ const tokenAccount2Pubkey = new PublicKey("CFEPU5Jd6DNj8gpjPLJ1d9i4xSJDGYNV7n6qw
 
 // mint token
 // status
+// cike
 (async () => {
   let tx = new Transaction();
   tx.add(
